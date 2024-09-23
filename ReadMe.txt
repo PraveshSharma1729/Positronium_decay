@@ -1,4 +1,4 @@
-
+#Put all the .cc file in new directory named src & put all the .hh files in new directory named include
 #First source the Geant .sh file
 
 #create folder named build
